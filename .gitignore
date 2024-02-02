@@ -1,0 +1,98 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+*.cmake
+Makefile
+*.make
+
+# Build folders
+build/
+Release/
+Debug/
+x64/
+x86/
+bin/
+obj/
+lib/
+
+# Dependency directories (comment out if you wish to track dependencies)
+# vendor/
+# node_modules/
+
+# Editor directories and files
+.vscode/
+*.code-workspace
+*.sublime-text
+*.sublime-project
+*.sublime-workspace
+
+# IDE - JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Visual Studio
+*.vs/
+*.user
+*.userprefs
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+
+# Log files
+*.log
+*.log.*
+
+# Others
+.DS_Store
+Thumbs.db
